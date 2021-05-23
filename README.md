@@ -1,7 +1,7 @@
 ### Hi there, I'm Philipp - aka [Pils10][website] 👋
 
 [![Website](https://img.shields.io/website?label=pils10.de&style=for-the-badge&url=https%3A%2F%2Fpils10.de)](https://pils10.de)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=pilszehn)
+[![Twitter Follow](https://img.shields.io/twitter/follow/pilszehn?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fpilszehn&screen_name=pilszehn)
 
 ## I'm a YouTuber, Developer, and Designer!!
 
