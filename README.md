@@ -93,7 +93,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Pils10's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=pils10&show_icons=true&hide_border=true" />
+  [![Pils10's GitHub stats](https://github-readme-stats.vercel.app/api?username=pils10)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
